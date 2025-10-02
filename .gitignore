@@ -1,0 +1,9 @@
+# Jupyter Notebook files
+*.ipynb
+
+# README files
+README.md
+readme.md
+
+# Requirements file
+requirements.txt
