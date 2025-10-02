@@ -49,7 +49,7 @@ Make sure you have Python and Jupyter installed. You can install required packag
     
 3. **Launch the Notebook:**
     ```bash
-    jupyter notebook notebooks/adaptfy_uk_energy.ipynb
+    jupyter notebook uk_energy_analysis.ipynb
     ```
 
 ## Usage
