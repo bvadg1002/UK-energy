@@ -54,8 +54,8 @@ Make sure you have Python and Jupyter installed. You can install required packag
 
 ## Usage
 
-- Follow the instructions and code cells in the notebook to analyze, visualize, and optimize your energy data.
-- All code, documentation, and results are contained within the repository. No additional scripts are required.
+- Follow the instructions and code cells in the notebook to analyze, visualize, and optimize your energy data
+- All code, documentation, and results are contained within the repository. No additional scripts are required
 
 ## License
 
