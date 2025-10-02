@@ -1,3 +1,4 @@
+ipython==9.6.0
 kagglehub==0.3.13
 matplotlib==3.10.6
 matplotlib-inline==0.1.7
