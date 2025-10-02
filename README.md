@@ -3,7 +3,8 @@
 This repository contains a Jupyter notebook, `uk_energy_analysis.ipynb`, that explores historic UK electricity demand and generation with lightweight, interview-focused analysis. 
 
 
-![alt text](<notebooks/Forecast_comparison.png>)
+![Uploading image.png…]()
+
 
 
 ## Contents
