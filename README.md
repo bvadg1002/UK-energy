@@ -7,7 +7,6 @@ This repository contains a Jupyter notebook, `uk_energy_analysis.ipynb`, that ex
 
 
 
-
 ## Contents
 - Exploratory analysis of national demand from 2009 to 2024 with resampling and rolling statistics
 - Clean plots with Matplotlib and interactive visuals with Plotly
@@ -20,7 +19,7 @@ This repository contains a Jupyter notebook, `uk_energy_analysis.ipynb`, that ex
 - Load demand and generation data, parse, clean and join them.
 - Resample to investigate energy demand trends at different time scale
 - Compute rolling means and baseline forecast for the future 48h window
-- Train `GradientBoostRegression` models with different features
+- Train `GradientBoostRegression` and `LGBMRegressor` models
 - Compare forecasting ML models with the baseline 
 - Assess feature importance for the ML models
 - Short conclusions and discussion points
@@ -50,7 +49,7 @@ Make sure you have Python and Jupyter installed. You can install required packag
     
 3. **Launch the Notebook:**
     ```bash
-    jupyter notebook uk_energy_analysis.ipynb
+    jupyter notebook notebooks/uk_energy_analysis.ipynb
     ```
 
 ## Usage
